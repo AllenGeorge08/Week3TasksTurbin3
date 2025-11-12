@@ -39,7 +39,6 @@ const mint = generateSigner(umi);
 })().catch(console.error);
 
 
-
 //e CREATING THE METADATA
 (async () => {
     try {
